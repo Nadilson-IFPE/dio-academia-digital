@@ -5,4 +5,4 @@
 
 
 <p>_________________________________________________________</p>
-<h2>Desafio proposto por:  <a href="(https://github.com/cami-la">Camila Cavalcante</a>.</h2>
+<h2>Desafio proposto por:  <a href="https://github.com/cami-la">Camila Cavalcante</a>.</h2>
